@@ -4,6 +4,7 @@
 }
 
 nav {
+  margin-top: -1px;
   padding-left: 60px;
   position: fixed;
   height: 60px;
@@ -27,7 +28,7 @@ nav {
   position: relative;
   margin-left: auto;
   margin-right: auto
-  
+
 }
 .spacecat {
   position: absolute;
@@ -42,9 +43,9 @@ nav {
   right: -60px;
 }
 .space-background {
-  position: fixed; 
-  top: -50%; 
-  left: -50%; 
+  position: fixed;
+  top: -50%;
+  left: -50%;
   min-width: 200%;
   min-height: 200%;
 }
@@ -58,4 +59,3 @@ nav {
   min-width: 50%
   min-height: 50%;
 }
-
