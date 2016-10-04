@@ -10,3 +10,10 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+.left {
+	float: left;
+	text-align: center;
+}
+.right {
+	float: right;
+}
