@@ -1,13 +1,17 @@
 nav {
-  margin-top: -1px;
-  padding-left: 60px;
-  position: fixed;
+  margin-top: -10px;
+  padding-left: 30px;
+  padding-top: 20px;
   font-size: 20px;
   height: 60px;
   width: 100%;
-  background-color: grey;
+  background-color: lightgrey;
+}
+.home {
+  color: black;
 }
 .links {
-  font-color: purple;
-  text-align: right;
+  padding-right: 30px;
+  color: purple;
+  float: right;
 }
