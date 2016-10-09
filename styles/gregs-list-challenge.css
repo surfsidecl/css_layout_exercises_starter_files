@@ -1,17 +1,42 @@
 nav {
   margin-top: -10px;
-  padding-left: 30px;
-  padding-top: 20px;
-  font-size: 20px;
-  height: 60px;
+  padding-left: 10px;
+  padding-top: 15px;
+  font-size: 18px;
+  height: 50px;
   width: 100%;
-  background-color: lightgrey;
-}
-.home {
-  color: black;
+  background-color: #f1f1f1;
 }
 .links {
-  padding-right: 30px;
-  color: purple;
+  padding-right: 20px;
+  color: #44146F;
   float: right;
+}
+.container {
+  padding-left: 60px;
+  padding-top: 20px;
+}
+#form {
+  padding:8px 15px;
+  border:0px solid #dbdbdb;
+  width:500px;
+  margin:50px auto;
+  height: 50px;
+}
+.boxes {
+  height: 40px;
+  display: inline-block;
+  border: 1px solid #D3D3D3;
+  text-align: center;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: -5px;
+}
+ul {
+  list-style-type: none;
+  }
+.joblist {
+  color: grey;
+  line-height: 2em;
 }
